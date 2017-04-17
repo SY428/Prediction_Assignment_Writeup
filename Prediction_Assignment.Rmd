@@ -2,7 +2,7 @@
 title: "Prediction Assignment: Classifying Activity Class"
 author: "Sophie Yang"
 date: "4/16/2017"
-output: html_document
+output: md_document
 ---
 
 ### Introduction
